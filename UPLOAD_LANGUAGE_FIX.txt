@@ -1,0 +1,9 @@
+LANGUAGE FIX FOR GITHUB PAGES
+
+Upload the CONTENTS of this folder to the root of your nasvai2234 repository.
+Do not upload the ZIP itself.
+
+The nested pages (/about/, /events/, /news/, etc.) now load ../styles.css and ../script.js, so KG/RU works there too.
+The root .html pages are also included.
+
+After commit, wait 1-3 minutes and hard refresh with Ctrl+F5.

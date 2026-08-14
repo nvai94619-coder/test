@@ -1,0 +1,1 @@
+Upload all files in this folder to the root of the GitHub repository. The main links use about.html/events.html/etc. Compatibility /events/ directories are also included. Enable Pages from main branch, root (/).

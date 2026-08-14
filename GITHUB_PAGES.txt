@@ -1,0 +1,5 @@
+GITHUB PAGES — ПУБЛИКАЦИЯ
+1. Загрузите содержимое этой папки в репозиторий.
+2. Settings → Pages → Deploy from a branch → main → /(root).
+3. Сайт будет доступен по адресу вида https://USERNAME.github.io/REPOSITORY/
+4. Все внутренние страницы используют относительные пути и работают на GitHub Pages.
